@@ -40,11 +40,6 @@ A short summary box that explains the main observations from the visuals and sug
 2. Open in Excel and go to the `05_Dashboard` sheet.
 3. If any data is edited (optional), refresh using **Data → Refresh All**.
 
-## Screenshots (optional)
-If you upload screenshots to a `screenshots` folder, you can enable these links:
-
-- `screenshots/dashboard.png`
-- `screenshots/traffic.png`
-- `screenshots/area.png`
-- `screenshots/late_severity.png`
-
+## Screenshots
+![Screenshot 1](./Screenshots/Screenshot%20(1).png)
+![Screenshot 2](./Screenshots/Screenshot%20(2).png)
