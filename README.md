@@ -5,18 +5,18 @@ This project is an Excel dashboard built to review last-mile delivery performanc
 
 ## What’s included
 ### Dashboard highlights (Sheet: `05_Dashboard`)
-**KPI strip**
+**KPI strip**:
 - Total Deliveries  
 - On-Time %  
 - Avg Delivery Time (min)  
 - Avg SLA Target (min)
 
-**Charts**
+**Charts**:
 - On-Time % by Traffic  
 - On-Time % by Area  
 - Late Delivery Severity (0–15, 15–30, 30–60, 60+ mins, On time/early)
 
-**Insights & Actions**
+**Insights & Actions** :                                                                                                                                                                                        
 A short summary box that explains the main observations from the visuals and suggests practical next steps.
 
 ## Tools / skills used
