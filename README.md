@@ -38,7 +38,6 @@ A short summary box that explains the main observations from the visuals and sug
 ## How to view
 1. Download `SLA_Compliance_OnTime_Performance_Excel_Dashboard.xlsx` from this repo.
 2. Open in Excel and go to the `05_Dashboard` sheet.
-3. If any data is edited (optional), refresh using **Data → Refresh All**.
 
 ## Screenshots
 ![Screenshot 1](./Screenshots/Screenshot%20(1).png)
